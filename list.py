@@ -101,6 +101,7 @@ lis=[9,7,6,5,4,3,2,1]
 # lis.reverse()
 # print(lis)
 
+#count -it returns the occurence of the list
 # lis.count(1)
 # print(lis)
 
