@@ -70,6 +70,10 @@ hi=[1,2,3,4,5]
 # hi.append("Mahesh")
 # print(hi)
 
+#index it returns the index value
+c=lis.index(9)
+print(c)
+
 #to add an multiple elements from an iterable to the end of exsting list
 # hi.extend([6,7,8])
 # print(hi)
