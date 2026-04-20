@@ -70,7 +70,7 @@ hi=[1,2,3,4,5]
 # hi.append("Mahesh")
 # print(hi)
 
-#index it returns the index value
+#index it returns the index value only the first occruncy value
 c=lis.index(9)
 print(c)
 
